@@ -13,6 +13,7 @@ const TextArea = ({ text, handleOnChange, mode }) => {
         }}
         id="myBox"
         rows="6"
+        placeholder="Type the above text here..."
       ></textarea>
     </div>
   );
